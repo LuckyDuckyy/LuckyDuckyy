@@ -1,7 +1,7 @@
 <h1 align="center">LuckyDucky</h1>
 <a href="https://github.com/LuckyDuckyy"></a>
 <p align="center">
-  <img src="https://api.status.gg/discord/971273516232093737?theme%5Bbackground%5D%5Bprimary%5D=494949&theme%5Bbackground%5D%5Bsecondary%5D=494949&theme%5Bseparator%5D=494949&border%5Bradius%5D=3" height="100" />
+  <img src="https://api.status.gg/discord/971273516232093737?theme%5Bbackground%5D%5Bprimary%5D=494949&theme%5Bbackground%5D%5Bsecondary%5D=494949&theme%5Bseparator%5D=494949&border%5Bradius%5D=7" height="100" />
 </p>
 <p align="center">
 <img height="25" src="https://api.visitorbadge.io/api/VisitorHit?user=LuckyDuckyy&countColor=%23006EFF" alt="Profile Views"/>
